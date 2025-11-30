@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   <!-- Header Image -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Amine%20El%20Biyadi&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&descSize=25" alt="Amine El Biyadi" width="100%" />
@@ -94,4 +94,4 @@ I enjoy solving real-world problems using clean architecture and modern technolo
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=100&section=footer" width="100%" />
-</div>
+</div> -->
